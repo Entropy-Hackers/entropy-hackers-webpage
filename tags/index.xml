@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Entropy Hackers Webpage</title>
-    <link>https://Entropy-Hackers.github.io/entropy-hackers-webpage/tags/</link>
+    <link>https://entropy-hackers.github.io/entropy-hackers-webpage/tags/</link>
     <description>Recent content in Tags on Entropy Hackers Webpage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://Entropy-Hackers.github.io/entropy-hackers-webpage/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://entropy-hackers.github.io/entropy-hackers-webpage/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
