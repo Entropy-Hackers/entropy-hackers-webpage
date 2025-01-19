@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Entropy Hackers Webpage</title>
-    <link>http://localhost:1313/</link>
+    <link>https://Entropy-Hackers.github.io/entropy-hackers-webpage/</link>
     <description>Recent content on Entropy Hackers Webpage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2025 17:03:02 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://Entropy-Hackers.github.io/entropy-hackers-webpage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
+      <link>https://Entropy-Hackers.github.io/entropy-hackers-webpage/posts/my-first-post/</link>
       <pubDate>Sun, 19 Jan 2025 17:03:02 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <guid>https://Entropy-Hackers.github.io/entropy-hackers-webpage/posts/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
