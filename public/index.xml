@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Entropy Hackers Webpage</title>
+    <title></title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Entropy Hackers Webpage</description>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 19 Jan 2025 17:03:02 +0100</lastBuildDate>
@@ -13,6 +13,27 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Sun, 19 Jan 2025 17:03:02 +0100</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;Entropy Hackers – Verein zur Erforschung dissipativer Strukturen&lt;/strong&gt;. Based in Graz, Austria, we are an international organization dedicated to exploring and fostering innovative approaches to dissipative structures. Our work transcends national boundaries, operating both in physical spaces and virtual realms to advance our mission.&lt;/p&gt;&#xA;&lt;p&gt;The Entropy Hackers are driven by a singular goal: to develop innovative approaches to the study and design of dissipative structures. We explore theoretical and practical methods to reduce entropy in complex systems across diverse domains.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;We’d love to hear from you! Reach out to the Secretary of Chaos at &lt;a href=&#34;mailto:office@entropyhackers.org&#34;&gt;office@entropyhackers.org&lt;/a&gt; —but only if it helps reduce entropy for both of us.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Fri, 17 Jan 2025 21:41:20 +0100</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description></description>
     </item>
   </channel>

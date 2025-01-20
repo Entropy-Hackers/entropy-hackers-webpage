@@ -1,19 +1,32 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Entropy Hackers Webpage</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Entropy Hackers Webpage</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 19 Jan 2025 17:03:02 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Sun, 19 Jan 2025 17:03:02 +0100</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description></description>
-    </item>
-  </channel>
+    <channel>
+        <title>Posts on </title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on </description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 19 Jan 2025 17:03:02 +0100</lastBuildDate>
+        <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>My First Post</title>
+            <link>http://localhost:1313/posts/my-first-post/</link>
+            <pubDate>Sun, 19 Jan 2025 17:03:02 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/my-first-post/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+        <item>
+            <title>First Post</title>
+            <link>http://localhost:1313/posts/first-post/</link>
+            <pubDate>Fri, 17 Jan 2025 21:41:20 +0100</pubDate>
+            
+            <guid>http://localhost:1313/posts/first-post/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
 </rss>
